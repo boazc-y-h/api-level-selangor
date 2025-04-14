@@ -96,3 +96,6 @@ models/classification/no_lag_values/classification_rf_model.pkl
 
 # exclude data from source control by default
 # /data/
+
+# exclude logs from source control
+notebooks/logs/
