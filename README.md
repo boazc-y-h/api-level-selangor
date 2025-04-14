@@ -46,6 +46,14 @@ Future studies could focus on:
 - Exploring other forecasting techniques to handle temporal dependencies, particularly addressing the instability issues seen with longer time windows in LSTM models.
 - Evaluating the models' generalizability across other geographic regions or pollutants.
 
+## 📦 Storage
+Due to size limitations, some Random Forest models files are hosted externally on One Drive:
+
+- Regression (No Lag Features) — [Download](https://1drv.ms/u/s!Atv8uviDqvPhiuANCk_BnYX04dCoDQ?e=vmaP80)
+- Regression (With Lag Features) — [Download](https://1drv.ms/u/s!Atv8uviDqvPhiuAxqmpgXQf33p6Ksg?e=nclRSn)
+- Classification (No Lag Features) — [Download](https://1drv.ms/u/s!Atv8uviDqvPhiuAZoVoQKH4gXA_LKg?e=nkTSAy)
+
+
 ## Project Organization
 ```
 ├── README.md          <- Project Overview
