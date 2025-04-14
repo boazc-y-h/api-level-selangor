@@ -1,0 +1,9 @@
+ipykernel
+python-dotenv
+pydotplus
+six
+ydata-profiling
+scikit-learn
+tensorflow
+xgboost
+graphviz
